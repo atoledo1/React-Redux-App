@@ -1,0 +1,23 @@
+
+.App {
+  text-align: center;
+  font-size: 20px;
+}
+
+body {
+  background: lightsalmon;
+}
+
+img {
+  
+  border-radius: 25%;
+  width: 35%;
+  height: 25%;
+}
+
+button {
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+
